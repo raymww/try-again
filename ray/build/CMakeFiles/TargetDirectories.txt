@@ -1,0 +1,3 @@
+/u/raymw/cs354/raytracing/ray/build/CMakeFiles/rebuild_cache.dir
+/u/raymw/cs354/raytracing/ray/build/CMakeFiles/edit_cache.dir
+/u/raymw/cs354/raytracing/ray/build/CMakeFiles/ray.dir
